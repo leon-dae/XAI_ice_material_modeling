@@ -42,5 +42,5 @@ The following code files were part of this analysis:
 
 Briefly, the workflow is as follows: You generate a geometry with Neper to obtain a .tess file. You process this .tess file with `neper_to_hypermesh.py`. This will output a .tcl file in the tickle language, which is to be run in the meshing software HyperMesh. Then, mesh the geometry in HyperMesh and save your model as a LS-Dyna keyfile. The scripts 2 or 3 will manipulate the keyfile such that every grain part is assigned a randomly rotated elasticity tensor. It will make use of scripts 4 and 5. Note that in script 4 there are some codes adapted from https://github.com/libAtoms/matscipy. Lastly, scripts 6 and 7 were used for postprocessing results. 
 
-
+You can find more information on the polycrystal modeling processes here: https://github.com/leon-dae/polycrystal_modeling.
 
