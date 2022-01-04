@@ -1,4 +1,4 @@
-name: ml_v1.1_phd
+name: dummy_name
 channels:
   - plotly
   - anaconda
