@@ -6,12 +6,12 @@ In this repository you can find the software codes I used and programmed for my 
 
 ### Corresponding publications
 <ol>
-  <li> L. Kellner, “Analyzing the complexity of ice with explainable machine learning for the development of an ice material model,” PhD thesis, Hamburg University of Technology, Hamburg, Germany, 2022. </li>
+  <li> L. Kellner, “Analyzing the complexity of ice with explainable machine learning for the development of an ice material model,” PhD thesis, Hamburg University of Technology, Hamburg, Germany, 2022, doi: 10.15480/882.4076 </li>
   <li> L. Kellner et al., “Establishing a common database of ice experiments and using machine learning to understand and predict ice behavior,” Cold Regions Science and Technology, 2019, doi: 10.1016/j.coldregions.2019.02.007. </li>
 </ol>
 
 ### Explainable machine learning analysis
-The data you need to run these codes is generally available but not public. Write to me (mail address above) or to Sören Ehlers (ehlers@tuhh.de) for the data. Alternatively, somebody at our institute should be able to assist you (https://www2.tuhh.de/skf/). The corresponding chapters in my PhD thesis are 5 and 6.
+The data you need to run these codes is generally available but not public. Write to me (mail address above) or to Franz von Bock und Polach (franz.vonbock@tuhh.de) for the data. Alternatively, somebody at our institute should be able to assist you (https://www2.tuhh.de/skf/). The corresponding chapters in my PhD thesis are 5 and 6.
 
 The following code files were part of this analysis:
 1. `behavior_XGBoost.ipynb`
